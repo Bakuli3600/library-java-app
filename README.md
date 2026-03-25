@@ -36,7 +36,15 @@ The system follows a modular architecture:
 - **Service Layer:** `Library.java` contains the business logic for issuing/returning books and searching.
 - **Controller/Main:** `Main.java` handles the user interaction loop and input processing.
 
-## 6. How to Run Instructions
+## 6. Project Structure
+The repository is organized as follows:
+- **`src/`**: Contains the Java source code (`.java` files).
+- **`docs/`**: Includes the project proposal and related documentation.
+- **`report/`**: Contains the final project report in PDF format.
+- **`slides/`**: Includes the presentation slides for the project.
+- **`com/`**: This directory is generated after compilation (contains `.class` files).
+
+## 7. How to Run Instructions
 1. Ensure you have **Java JDK 8+** installed.
 2. Open your terminal in the project root directory.
 3. Compile the source code:
